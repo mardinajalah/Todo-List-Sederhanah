@@ -1,8 +1,5 @@
-# React + Vite
+# Web Aplication Todo List Sederhana
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+di buat menggunakan react js yang mana aplikasi ini kita bisa menambah, mengubah, dan menghapus data todo
+di tambah dengan fitur searching
+dan ada angka yang menunjukan jumlah datanya
